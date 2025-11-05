@@ -1,0 +1,8 @@
+## Interface: 11504
+## Title: GearManager Classic
+## Notes: Save and equip gear sets with simple commands for World of Warcraft Classic
+## Author: MIYANKO
+## Version: 1.0.0
+## SavedVariables: GearManagerClassicDB
+
+GearManager.lua
